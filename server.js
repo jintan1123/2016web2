@@ -6,10 +6,10 @@
       '<html>\n'+
       '  <head>\n'+
       '    <meta charset="UTF-8">\n'+
-      '    <title>はじめてのMicrosoft Azure</title>\n'+
+      '    <title>webプログラミング課題 Azure</title>\n'+
       '  </head>\n'+
       '  <body>\n'+
-      '    <h1>Hello World!</h1>\n'+
+      '    <h1>Welcome to Jins Web</h1>\n'+
       '  </body>\n'+
       '</html>\n';
     res.end(response_str);
